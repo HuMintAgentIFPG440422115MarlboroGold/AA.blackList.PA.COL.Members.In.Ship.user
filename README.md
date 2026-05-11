@@ -6,3 +6,4 @@ Black list, to exclude "Names" from this ship.
 Blacklist Names:
 
 1. Gisele.
+2. Jorginho.
