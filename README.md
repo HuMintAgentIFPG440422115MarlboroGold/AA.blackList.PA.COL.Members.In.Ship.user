@@ -10,3 +10,5 @@ Blacklist Names:
 3. 219.100.37.163.
 4. Karina.
 5. Flavia.
+6. Makaw.Lidia.
+7. Makaw.Maurucio.
